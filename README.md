@@ -1,1 +1,1 @@
-Dayum
+please note that this project is currently only intended as a proof of concept. 
